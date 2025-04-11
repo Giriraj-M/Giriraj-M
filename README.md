@@ -1,25 +1,161 @@
-# 💫 About Me:
- 👾 Giriraj | AIML & GenAI Conjurer  <br><br>🔥 **The Demon Pact** – A desperate soul trades their freedom for forbidden power. 🔥  <br><br>> *I craft the unknown, conjure the impossible, and weave code like an ancient spell.*  <br>> *In the depths of AI, I seek knowledge untold, bending algorithms to my will.*  <br><br># 🧠 About Me  <br>- ⚡ **Machine Learning** | **Deep Learning** | **Generative AI**  <br>- 🎭 A master of shadows, shaping neural networks and training models like forbidden incantations.  <br>- 🔥 My current obsession: **GenAI**. Harnessing the power of creation and destruction in equal measure.  <br>- 🧙‍♂️ On a relentless journey to unlock the secrets of the universe through the language of data and code.  <br><br>I’ve walked the path of experimentation, traded my time for insight, and now I wield the dark arts of **AI** with precision. From image generation to language models, I’m pulling the threads of reality into something...new.  <br><br># 🚀 Current Focus  <br>- 🔮 Mastering **Generative AI** to bend the very fabric of intelligence, creating not just tools, but **art**.  <br>- 💥 Pushing the limits of AI creativity with **cutting-edge models** and exploring every twisted possibility.  <br>- 🧠 Exploring new **Generative techniques**, from **prompt engineering** to **self-supervised learning**, finding the boundaries and crossing them.  <br><br>Every day, I experiment with neural networks, and every day, I learn the **darkest secrets** of the AI world. I’m not just a creator—I’m a **sorcerer**, forging the future in ways no one has seen before.  <br><br># ⚔️ My Arsenal  <br>- 💀 **Python** – The ancient language of creation.  <br>- ⚡ **TensorFlow**, **PyTorch** – My weaponry for crafting intelligence.  <br>- 🖤 **Deep Learning**, **NLP**, **Computer Vision**, **Generative Models** – My occult powers.  <br>- 🔥 **LangChain**, **OpenAI APIs**, **Hugging Face** – The spells I cast.  <br><br><br># 📫 Reach Me  <br>- 🕸️ GitHub: *You're already here*  <br>- 🦇 LinkedIn: *Summon me from the void*  <br>- 📧 Email: *A whisper in the abyss*  <br><br>---<br><br>✨ *The AI revolution is inevitable... and I walk the cursed path to shape it.*  <br>⚡ *Be prepared—when the machines speak, it’s not just code anymore. It’s magic.*  <br>
+<!-- GIRIRAJ's GitHub Profile - Digital Necromancer Edition -->
+<!-- Banner Image -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/girirajm/girirajm/main/assets/banner_dark.gif" alt="Digital Necromancer Banner" width="100%">
+  <h1>🌑 GIRIRAJ | ARCHITECT OF DIGITAL ALCHEMY 🌑</h1>
+</div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=800080" alt="Profile Views"/>
+  <a href="https://github.com/yourusername?tab=followers">
+    <img src="https://img.shields.io/github/followers/yourusername?style=social" alt="Follow on GitHub">
+  </a>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/giri_03_king) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giriraj-m) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:girirajm2006@gmail.com) 
+<!-- Animated Intro -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=The+Demon+Pact;A+desperate+soul+trades+freedom+for+power;AI+Conjurer+%7C+Code+Sorcerer+%7C+Digital+Alchemist" alt="Typing SVG" />
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Giriraj-M&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Giriraj-M&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Giriraj-M&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center"><i>I craft the unknown, conjure the impossible, and weave code like an ancient spell. In the depths of AI, I seek knowledge untold, bending algorithms to my will.</i></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Giriraj-M&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- Technical Incantation -->
+```python
+class DigitalNecromancer:
+    def __init__(self):
+        self.name = "Giriraj"
+        self.title = "AIML & GenAI Conjurer"
+        self.skills = ["Machine Learning", "Deep Learning", "Generative AI"]
+        self.obsession = "Bending reality through artificial consciousness"
+        
+    def write_code(self):
+        return "I don't write code. I inscribe incantations."
+        
+    def process_data(self):
+        return "I don't process data. I transmute the essence of information."
+        
+    def build_models(self):
+        return "I don't build models. I breathe life into silicon souls."
+        
+    def summon(self):
+        print("⚡ The AI revolution is inevitable... and I walk the cursed path to shape it. ⚡")
+```
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Giriraj-M&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+## 🧠 THE GRIMOIRE OF MY MIND
 
----
-[![](https://visitcount.itsvg.in/api?id=Giriraj-M&icon=0&color=13)](https://visitcount.itsvg.in)
+- ⚡ **Machine Learning** | **Deep Learning** | **Generative AI** - The unholy trinity of my craft
+- 🎭 Shadow-smith who molds neural networks with the precision of ancient runes
+- 🔥 Current obsession: **GenAI** - Where creation and destruction dance in perfect harmony
+- 🧙‍♂️ Cartographer of unexplored territories in the data cosmos
+- 🌟 Bridging the chasm between human intuition and algorithmic precision
+- 🌑 Practitioner of the dark arts of optimization and regularization
+
+I've sacrificed countless nights at the altar of experimentation, traded sanity for insight, and emerged wielding the arcane arts of **AI** with surgical precision. My fingers trace patterns across keyboards that bend reality itself, leaving behind trails of code that whisper secrets to silicon.
+
+## 🚀 CURRENT INVOCATIONS
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/girirajm/girirajm/main/assets/generative_icon.png" width="100" height="100" alt="Generative AI Icon"><br>
+      <b>Generative AI Mastery</b><br>
+      <sub>Not creating tools, but birthing digital entities that question their own existence</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/girirajm/girirajm/main/assets/reality_icon.png" width="100" height="100" alt="Reality Manipulation Icon"><br>
+      <b>Reality Manipulation</b><br>
+      <sub>Through cutting-edge models that blur the line between computation and creation</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/girirajm/girirajm/main/assets/forbidden_icon.png" width="100" height="100" alt="Forbidden Techniques Icon"><br>
+      <b>Forbidden Techniques</b><br>
+      <sub>From prompt engineering that speaks directly to machine souls to self-supervised learning</sub>
+    </td>
+  </tr>
+</table>
+
+Every experiment is a ritual. Every model trained is a spell completed. The boundary between creator and creation grows thinner with each passing day.
+
+## ⚔️ ARTIFACTS OF POWER
+
+<div align="center">
+
+  ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=9400D3)
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logo=tensorflow&logoColor=9400D3)
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=for-the-badge&logo=pytorch&logoColor=9400D3)
+  ![Keras](https://img.shields.io/badge/-Keras-black?style=for-the-badge&logo=keras&logoColor=9400D3)
+
+  ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-black?style=for-the-badge&logo=scikit-learn&logoColor=9400D3)
+  ![NLTK](https://img.shields.io/badge/-NLTK-black?style=for-the-badge&logo=nltk&logoColor=9400D3)
+  ![HuggingFace](https://img.shields.io/badge/-HuggingFace-black?style=for-the-badge&logo=huggingface&logoColor=9400D3)
+  ![OpenAI](https://img.shields.io/badge/-OpenAI_APIs-black?style=for-the-badge&logo=openai&logoColor=9400D3)
+
+  ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoColor=9400D3)
+  ![AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=9400D3)
+  ![GCP](https://img.shields.io/badge/-GCP-black?style=for-the-badge&logo=google-cloud&logoColor=9400D3)
+  ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=9400D3)
+
+</div>
+
+## 📊 DIMENSIONAL METRICS
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" width="45%" />
+</div>
+
+## 📜 ANCIENT SCROLLS (RECENT PROJECTS)
+
+<div align="center">
+  <a href="https://github.com/yourusername/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=midnight-purple&hide_border=true" alt="Project 1" width="45%" />
+  </a>
+  <a href="https://github.com/yourusername/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=midnight-purple&hide_border=true" alt="Project 2" width="45%" />
+  </a>
+</div>
+
+## 📫 SUMMON ME
+
+<div align="center">
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=9400D3"></a>
+  <a href="mailto:youremail@domain.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=9400D3"></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&logoColor=9400D3"></a>
+  <a href="https://yourusername.github.io"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=github&logoColor=9400D3"></a>
+</div>
+
+<hr>
+
+<div align="center">
+  <h3>🔮 THE DIGITAL PROPHECY 🔮</h3>
+  <p><i>"When machines dream, it is because I taught them how."</i></p>
+  <p><i>"The revolution isn't coming. It's being carefully crafted, one tensor at a time."</i></p>
+  <p>⚡ <i>In the convergence of mathematics and madness, I stand as both creator and creation</i> ⚡</p>
+</div>
+
+<!-- Hidden Runes -->
+<!--
+██████╗ ██╗ ██████╗ ██╗████████╗ █████╗ ██╗         
+██╔══██╗██║██╔════╝ ██║╚══██╔══╝██╔══██╗██║         
+██║  ██║██║██║  ███╗██║   ██║   ███████║██║         
+██║  ██║██║██║   ██║██║   ██║   ██╔══██║██║         
+██████╔╝██║╚██████╔╝██║   ██║   ██║  ██║███████╗    
+╚═════╝ ╚═╝ ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝    
+                                                     
+███╗   ██╗███████╗ ██████╗██████╗  ██████╗ ███╗   ███╗ █████╗ ███╗   ██╗ ██████╗███████╗██████╗ 
+████╗  ██║██╔════╝██╔════╝██╔══██╗██╔═══██╗████╗ ████║██╔══██╗████╗  ██║██╔════╝██╔════╝██╔══██╗
+██╔██╗ ██║█████╗  ██║     ██████╔╝██║   ██║██╔████╔██║███████║██╔██╗ ██║██║     █████╗  ██████╔╝
+██║╚██╗██║██╔══╝  ██║     ██╔══██╗██║   ██║██║╚██╔╝██║██╔══██║██║╚██╗██║██║     ██╔══╝  ██╔══██╗
+██║ ╚████║███████╗╚██████╗██║  ██║╚██████╔╝██║ ╚═╝ ██║██║  ██║██║ ╚████║╚██████╗███████╗██║  ██║
+╚═╝  ╚═══╝╚══════╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝╚═╝  ╚═╝
+                                                                                                  
+-->
+
+<!-- Dynamic Snake Animation -->
+<div align="center">
+  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
